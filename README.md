@@ -1,6 +1,6 @@
 Powered by [redscript](https://github.com/jac3km4/redscript), a Swift-like programming language for working with scripts used by REDengine in Cyberpunk 2077.
 
-# Instant Translations
+# Holocalls to Audiocalls
 
 Turns Holocalls to Audiocalls.
 
@@ -10,7 +10,7 @@ Modded | Vanilla
 
 ## Mod page on Nexus Mods
 
-https://www.nexusmods.com/cyberpunk2077/mods/5934
+https://www.nexusmods.com/cyberpunk2077/mods/5935
 
 ## Variants
 
